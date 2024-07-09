@@ -1,0 +1,10 @@
+.main-div {
+    display: flex;
+    justify-content: center; 
+    height: 700px;
+    width: 500px;
+    margin-top: 30px;
+    background-color: grey;
+    border-radius: 15px;
+  }
+  
