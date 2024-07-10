@@ -1,0 +1,49 @@
+.band-info {
+    background-color: rgb(68, 68, 68);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 10px;
+    margin: 10px;
+    height: 460px;
+    width: 500px;
+    border-radius: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+.band-head{
+    display: flex;
+    height: 120px;
+  }
+
+.band-head img {
+    max-height: 100px;
+    width: auto;
+    margin: 20px 20px 20px 20px;
+    border-radius: 15px;
+  }
+
+  .band-head h2{
+    color: azure;
+    font-size: 30px;
+    margin: 35px 20px 20px 50px;
+  }
+
+  .band-details p{
+    color: azure;
+    padding-left: 20px;
+  }
+
+  .band-details h3{
+    color: azure;
+    padding-left: 20px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+  }
+
+  .band-details ul{
+    color: azure;
+    padding-left: 20px;
+    margin-top: 10px;
+  }

@@ -2,12 +2,14 @@ const people = [
     {
       fullName: "John Doe",
       phone: "+123456789",
-      email: "john.doe@example.com"
+      email: "john.doe@example.com",
+      photo: "./photos/photo1.jpeg"
     },
     {
       fullName: "Jane Smith",
       phone: "+987654321",
-      email: "jane.smith@example.com"
+      email: "jane.smith@example.com",
+      photo: "./photos/photo2.jpeg"
     },
     {
       fullName: "Michael Johnson",
